@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detonator</string>
+    <string name="boom" translatable="false">BOOM!</string>
+    <string name = "perm_descr">Very dangerous, could damage your phone</string>
+</resources>
